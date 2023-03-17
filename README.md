@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chat@jswilliam93@gmail.com**
 
-- 📄 Know about my experiences [Download Resume](https://www.icloud.com/iclouddrive/00edYiNDckuHYpW99lCqk6xPw#Joseph_William_Resume)
+- 📄 Know about my experiences [Resume](https://www.icloud.com/iclouddrive/00edYiNDckuHYpW99lCqk6xPw#Joseph_William_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
