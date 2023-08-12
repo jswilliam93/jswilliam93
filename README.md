@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph William</h1>
 <h3 align="center">A software engineer with a passion for frontend development</h3>
 
-- 🔭 I’m currently working as a Software Engineer @ [Telda](https://telda.app/)
+- 🔭 I’m currently working as a Software Engineer @ [Treyd](https://treyd.io)
 
 - 👨‍💻 All of my projects are available at [jswilliam93.com](jswilliam93.com)
 
