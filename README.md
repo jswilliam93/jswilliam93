@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [jswilliam93.com](jswilliam93.com)
 
-- 📫 How to reach me **chat@jswilliam93.com**
+- 📫 How to reach me **me@jswilliam93.com**
 
-- 📄 Know about my experiences [Resume](https://www.icloud.com/iclouddrive/00edYiNDckuHYpW99lCqk6xPw#Joseph_William_Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iHxiS5TQYJqEgGBT21XZ9XVumkScXmu9/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
